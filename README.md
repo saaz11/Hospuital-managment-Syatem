@@ -1,1 +1,1 @@
-# Hospuital-managment-Syatem
+# Hospital-managment-System
